@@ -6,27 +6,30 @@ If you enjoy my tutorial, please support me by :
 - Downloading my [Google Play](https://play.google.com/store/apps/dev?id=5505294983591200024) games and giving them 5*'s and constructive comments.
 
 ## Table of Contents
-1. **[Initial Setup and Details](Initial-Setup-and-Details)**
-   1. **[Disclaimer](Disclaimer)**
-   2. **[Before continuing you should have](Before-continuing-you-should-have)**
-   3. **[Relevant Links](Relevant-Links)**
-2. **[Instructions](Instructions)**
-   1. **[Scene Setup](Scene-Setup)**
-   2. **[Steps](Steps)**
-   3. **[Final Result](Final-Result)**
+1. **[Initial Setup and Details](#Initial-Setup-and-Details)**
+   1. **[Disclaimer](#Disclaimer)**
+   2. **[Before continuing you should have](#Before-continuing-you-should-have)**
+   3. **[Relevant Links](#Relevant-Links)**
+2. **[Instructions](#Instructions)**
+   1. **[Scene Setup](#Scene-Setup)**
+   2. **[Steps](#Steps)**
+   3. **[Final Result](#Final-Result)**
 
 ## Initial Setup and Details
 ### Disclaimer
 To the best of my knowledge, this tutorial and all content inside of it has been typed with no errors or misinformation. That being said, neither I, nor Nichathan Gaming owns, has affiliation to, or any form of control over Unity. All information in this tutorial is subject to become obsolete at any moment and there are no guarantees that anything inside of this tutorial will work. By continuing to follow this tutorial, you understand that neither Johnathan Nichols nor Nichathan Gaming are responsible for whatever may happen. That being said, I put a lot of time and effort into this walkthrough and I sincerely hope that it can help you.
+</br>**[Back To Top](#Table-of-Contents)**
 
 ### Before continuing, you should have :
 - The latest [Unity Editor](https://unity.com/download)
 - Some assets loaded into a project to follow along.
+</br>**[Back To Top](#Table-of-Contents)**
 
 ### Relevant Links
 - [YouTube Video Tutorial](https://www.youtube.com/watch?v=xZdW-avT5UA)
 - [The Unity learn tutorial that supported this tutorial](https://learn.unity.com/tutorial/5c5151b9edbc2a0020694df6)
 - [The forum post that inspired this tutorial](https://forum.unity.com/threads/how-do-i-force-the-game-to-run-at-a-given-aspect-ratio.1258797/)
+</br>**[Back To Top](#Table-of-Contents)**
 
 ### Issue Details
 When dealing with scenes in Unity, they look great in the aspect ratio that they were developed for.
@@ -38,6 +41,7 @@ However, when the aspect ratio of the screen is changed, even a small amount, yo
 </br>![ex2](https://user-images.githubusercontent.com/103794085/222946929-78848e32-3955-4b67-b790-4c1d7fcce7ee.png)
 
 I have dealt with this issue by placing assets onto a canvas in the past and avoid using a Sprite Renderer in the past. Yet, this issue has still been a large hurdle for myself and many other Unity users. Furthermore, it is heartwrenching to see [Unity employees](https://forum.unity.com/threads/how-do-i-force-the-game-to-run-at-a-given-aspect-ratio.1258797/#post-8004821) belitle users for wanting a solution to this issue. I am appauled that behavior shown by employees on the forum can be accepted. Adding emoji does not make an insult any less hurtful.
+</br>**[Back To Top](#Table-of-Contents)**
 
 ## Instructions
 ### Scene Setup
@@ -137,6 +141,7 @@ With the new Raw Image, I highly recommend setting the Rect Transform to a set W
 </br>![image022](https://user-images.githubusercontent.com/103794085/222949756-dc001ad7-d4a6-426b-9fe3-484a8b668c89.png)
 
 With that last step, we are finally done!
+</br>**[Back To Top](#Table-of-Contents)**
 
 ### Final Result
 **Before adding steps**
@@ -145,3 +150,4 @@ With that last step, we are finally done!
 </br>![image023](https://user-images.githubusercontent.com/103794085/222949839-7412baba-2d33-44ee-8023-6fdc458331ca.png)
 </br>**Wide Screen Result**
 </br>![image024](https://user-images.githubusercontent.com/103794085/222949869-19a180fa-186d-4d02-b88e-afe681a3c794.png)
+</br>**[Back To Top](#Table-of-Contents)**
