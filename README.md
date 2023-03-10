@@ -61,6 +61,7 @@ In my starter scene, I have a [main camera](https://docs.unity3d.com/ScriptRefer
 
 **Canvas Settings**
 </br>![image002](https://user-images.githubusercontent.com/103794085/222947633-36be9006-fecc-44c1-9fb3-99bf4b11535e.png)
+</br>**[Back To Top](#Table-of-Contents)**
 
 ### Steps
 The first step that we must take is to add a new display layer to our game. *It is perfectly fine to use a default layer as long as you can remove it from the **Main Camera** Culling Mask.*
